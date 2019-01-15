@@ -14,6 +14,10 @@ exports.config = {
   exclude: [
       // 'path/to/excluded/files'
   ],
+  // Configuration for docker
+  // host: 'seleniumapp',
+  // port: 4444,
+  // path: '/wd/hub',
   //
   // ============
   // Capabilities
