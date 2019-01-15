@@ -21,6 +21,7 @@
     "wdio-phantomjs-service": "^0.2.2",
     "wdio-selenium-standalone-service": "0.0.10",
     "wdio-spec-reporter": "^0.1.5",
+    "webdriver": "^5.3.0",
     "webdriverio": "^4.14.1"
   },
   "repository": {
